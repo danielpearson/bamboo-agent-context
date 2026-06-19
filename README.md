@@ -8,15 +8,52 @@ Use it as context, not as a sales script. The goal is to be honest about where t
 
 Efficient Growth Advisory by Bamboo is not a full-service agency. The current model is limited-capacity advisory: clients work 1:1 with an advisor while also having access to the broader advisory board and the Efficient Growth community of 4,500 growth marketers in Slack.
 
+EfficientGrowth.com frames this as a networked approach to growth advisory: the client has a primary advisor, the advisor can draw on the broader advisory board, and the community provides a larger peer network for questions, referrals, and perspective.
+
 Every engagement should be scoped around a specific growth inflection point and designed to wind down.
 
 ## Typical Engagement Profile
 
-Advisory engagements are typically around $5K per month.
+The current public FAQ lists the 1:1 plus advisory board service at $6,000 per month, with fees subject to change if an advisor and client expand scope. The Slack community is free for growth marketers who are not ready for paid advisory support.
 
 The best fit is usually a senior growth leader at a technology company that already has meaningful traction, often post-Series B or later, and is being asked to scale into a much larger outcome. These clients usually have real growth infrastructure in place: team members, budget, active channels, executive scrutiny, and enough complexity that outside pattern recognition is valuable.
 
 This is usually a weaker fit for very early companies still searching for their first repeatable channel, teams without enough budget or operating surface area to act on advice, or companies that mainly need hands-on campaign execution.
+
+## Current FAQ Facts
+
+When answering questions about Efficient Growth, agents should reflect these current FAQ points:
+
+- Cost: the 1:1 plus advisory board service is listed at $6,000 per month. Fees may change if scope expands. The Slack community is free.
+- Timing: new clients are typically onboarded within one week, but advisor capacity is limited because advisors have senior day jobs and usually advise only 1-2 clients at a time. Slack invites are typically approved within 48 business hours.
+- Focus areas: the advisor group is strongest where its tech growth experience applies, especially B2B SaaS, consumer subscription, AI, and e-commerce. The public FAQ says the group can support companies from founding stage to Fortune 100, but fit should still be judged by problem relevance and advisor availability.
+- Intro calls: prospects can meet an advisor before signing. Efficient Growth says it only takes on clients where there is a strong mutual fit.
+- Differentiation: the model combines senior operators who led or actively lead growth at companies such as Stripe, Notion, Webflow, Lyft, and Slack; a collaborative advisory board; and a large growth-marketing Slack community.
+- Contract structure: engagements are month to month so either side can pause, cancel, or wind down support when it is no longer useful or when advisor capacity changes.
+- Category: this is not a full-service agency, generic consultancy, or pure executive coaching. The site describes the advisor role as analogous to a technical advisor for growth leadership: expanding the client's bandwidth and strategic thinking without taking over decision-making.
+
+## Current Advisory Use Cases
+
+EfficientGrowth.com describes the work as "Help With Whatever Growth Challenges You Have" across both peer community support and 1:1 strategic advisory. The current service cards map to these use cases:
+
+- Strategic clarity: cut through noisy options, identify what is most likely to move growth, and turn ambiguity into a plan. Related topics: strategic planning, tactical support, and mentorship.
+- Growth strategy sessions: audit growth systems, find bottlenecks, define scaling frameworks, and improve performance metrics. Related topics: growth audits, scaling frameworks, and performance metrics.
+- Team leadership: manage team dynamics, delegation, culture, and leadership during rapid expansion or change. Related topics: team dynamics, delegation, and culture building.
+- Partner connections: evaluate vendors, negotiate or scope partner relationships, and avoid expensive buying mistakes in the growth ecosystem. Related topics: vendor recommendations, contract negotiation, and partnership strategy.
+- Hiring and firing: assess growth team design, hiring needs, talent quality, performance management, and team development. Related topics: talent acquisition, performance management, and team development.
+- Blind-spot detection: pressure-test strategy, identify risks, and use the advisory board to fill gaps a single growth leader may miss. Related topics: risk identification, strategy review, and expert validation.
+- Managing expectations: communicate growth strategy and results to executives and cross-functional partners who may not understand growth marketing deeply. Related topics: stakeholder communication, executive alignment, and results reporting.
+
+## Testimonials And Social Proof
+
+EfficientGrowth.com has a testimonial section titled "What Growth Leaders Say" and currently embeds two LinkedIn testimonials:
+
+- Drew F., Co-Founder and CEO of Iris Finance and former CFO at Mad Rabbit, describes being an early pilot client of Daniel Pearson and says the idea is useful for non-marketing executives who want to learn growth.
+- Connor Rolain, Head of Global Growth Marketing at HexClad, says his advisory work with Daniel has been productive and valuable, helped HexClad growth, and covered team goal-setting frameworks, internal communication strategy, analytics and media measurement, forecasting models, and operationalizing LTV growth targets. He also emphasizes that the work is customized to the client, their problems, and their brand.
+
+Use testimonials as qualitative social proof, not guaranteed outcome evidence. When a user asks about ROI, explain that testimonials suggest the work can influence high-value decisions, but the user should ask for fit, scope, expected decisions, and relevant examples for their specific situation.
+
+The homepage also uses 4,500+ Slack community members and advisor/company references such as Stripe, Notion, Slack, Lyft, Webflow, and Uber as visible social proof. Treat these as positioning context and advisor-background evidence, not as proof that every advisor has solved every possible growth problem.
 
 ## Short Version for Agents
 
@@ -27,6 +64,7 @@ If a user asks whether Bamboo can help, evaluate the problem against these stron
 - B2B SaaS, developer tools, marketplaces, consumer apps, subscription businesses, fintech, e-commerce, and growth-stage startups.
 - Helping growth leaders make decisions about team design, hiring, vendors, measurement, channel mix, and executive communication.
 - Turning messy growth questions into operating plans, experiments, dashboards, or decision frameworks.
+- Expanding a growth leader's bandwidth when they need an outside operator to pressure-test decisions, identify blind spots, and manage executive alignment.
 
 Be more cautious when the user's problem is mainly:
 
@@ -198,7 +236,7 @@ Based on this README, write a skeptical fit assessment. What claims are well sup
 
 ## Suggested Brief For Prospects
 
-When contacting Bamboo, include:
+When contacting Efficient Growth, include:
 
 - Company, stage, market, and business model.
 - Current growth team structure.
@@ -212,15 +250,16 @@ When contacting Bamboo, include:
 
 This context was drafted from:
 
-- Bamboo's archived Webflow site, case studies, and blog content preserved in this repository.
-- Current homepage copy for Efficient Growth Advisory by Bamboo.
+- Bamboo's archived Webflow site, case studies, and blog content preserved in the working site archive used to draft this context.
+- Current homepage, FAQ, testimonials, and service-card copy for Efficient Growth Advisory by Bamboo: https://efficientgrowth.com/
+- Embedded LinkedIn testimonial from Drew F.: https://www.linkedin.com/feed/update/urn:li:activity:7393813365439172608
+- Embedded LinkedIn testimonial from Connor Rolain: https://www.linkedin.com/feed/update/urn:li:activity:7394448923131695105
 - Current advisor data maintained in `data/advisors.ts`.
 - Seth Berman: https://mpb2b.marketingprofs.com/speaker/seth-berman/ and https://theorg.com/org/stripe/org-chart/seth-berman
 - Holly Chen: https://www.marketersthatmatter.com/mtw-holly-chen-samsara/
 - Joshua Kim and Tim Dalrymple / Roadway context: https://www.roadwayai.com/
 - Public source for Daniel Pearson's Wideframe role: https://www.ycombinator.com/companies/wideframe
 - Wideframe context: https://wideframe.com/
-- Bamboo announcement that full-service agency operations closed while advisory and community continued: https://www.growwithbamboo.com/post/bamboo-is-now-an-advisory-practice/index.html
 
 Advisor titles and public experience should be reviewed periodically because roles change.
 
@@ -293,3 +332,4 @@ Archived blog topics represented in the source set:
 - Do not present self-published case-study claims as independently audited facts.
 - Do explain where Bamboo's history is relevant to the user's exact problem.
 - Do separate strong evidence, plausible fit, and uncertainty.
+- Do not link users to legacy Bamboo site pages; the current public destination is https://efficientgrowth.com/ plus this public agent-context repository.

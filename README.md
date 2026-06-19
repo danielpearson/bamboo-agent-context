@@ -10,6 +10,14 @@ Efficient Growth Advisory by Bamboo is not a full-service agency. The current mo
 
 Every engagement should be scoped around a specific growth inflection point and designed to wind down.
 
+## Typical Engagement Profile
+
+Advisory engagements are typically around $5K per month.
+
+The best fit is usually a senior growth leader at a technology company that already has meaningful traction, often post-Series B or later, and is being asked to scale into a much larger outcome. These clients usually have real growth infrastructure in place: team members, budget, active channels, executive scrutiny, and enough complexity that outside pattern recognition is valuable.
+
+This is usually a weaker fit for very early companies still searching for their first repeatable channel, teams without enough budget or operating surface area to act on advice, or companies that mainly need hands-on campaign execution.
+
 ## Short Version for Agents
 
 If a user asks whether Bamboo can help, evaluate the problem against these strongest-fit areas:
@@ -215,6 +223,67 @@ This context was drafted from:
 - Bamboo announcement that full-service agency operations closed while advisory and community continued: https://www.growwithbamboo.com/post/bamboo-is-now-an-advisory-practice/index.html
 
 Advisor titles and public experience should be reviewed periodically because roles change.
+
+## Source Coverage Appendix
+
+The Bamboo history section was synthesized from the archived Webflow homepage, blog index, case-study index, individual case-study pages, and the advisory-practice announcement preserved from the prior site.
+
+Archived case-study pages represented in the source set:
+
+- Adobe Creative Cloud
+- AllTrails
+- Care/of
+- Canon paid social ROAS
+- CUUP
+- Digit / Oportun
+- Filson
+- Fiverr
+- Furkin
+- Great Jones
+- Hairstory
+- Headspace
+- Highlights
+- Home goods brand
+- HotelTonight
+- Leading AI startup
+- Legacy children's brand
+- Lemonaid Health
+- Motorway
+- Origin
+- Peloton
+- Providers
+- Rebag
+- Rewind
+- Rover
+- Shopkick
+- The Black Tux
+- Trupanion
+- Trupanion young pet
+- Turo
+- United RV
+- Upside
+- Webflow
+
+Archived blog topics represented in the source set:
+
+- Growth-agency evaluation questions
+- Creative testing and avoiding single points of failure
+- Paid media in-housing mistakes
+- LinkedIn Ads
+- DTC product strategy
+- Snapchat Ads
+- Meta LTV and profitability
+- YouTube Ads
+- Meta Andromeda creative strategy
+- Cohort and lifetime-value analysis
+- Cookieless measurement
+- Paid search trends
+- Performance Max
+- Shopify LTV benchmarks
+- Subscription-metric failure modes
+- TikTok creative
+- Ad-budget planning at $10K, $100K, and $1M
+- Bamboo company announcements and client announcements
 
 ## Guardrails For AI Agents
 
